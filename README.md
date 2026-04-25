@@ -2,18 +2,18 @@
 
 # **Backend & Cybersecurity Developer**
 
-Desenvolvedor com formação técnica em Análise e Desenvolvimento de Sistemas e atualmente em especialização em Cibersegurança.
+Developer with a technical background in Systems Analysis and Development, currently specializing in Cybersecurity.
 
-Atuo na construção de sistemas backend, APIs e análise de segurança de aplicações, buscando entender como sistemas funcionam — tanto na sua arquitetura quanto nas suas vulnerabilidades.
+I work on building backend systems and APIs, as well as analyzing application security. I’m particularly interested in understanding how systems operate — both in terms of architecture and potential vulnerabilities.
 
 ---
 
-### 🧠 Foco atual
+### 🧠 Current Focus
 
-- Desenvolvimento de APIs e sistemas backend
-- Segurança de aplicações (AppSec)
-- Testes de vulnerabilidade e análise de falhas
-- Estruturação e arquitetura de sistemas
+- Backend development and API design
+- Application Security (AppSec)
+- Vulnerability testing and security analysis
+- System architecture and design
 
 ---
 
