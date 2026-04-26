@@ -79,19 +79,20 @@ I work on building backend systems and APIs, as well as analyzing application se
 ---
 
 ### 🔐 Cyber Security (AppSec & Pentest)
+
 <img align="left" alt="Kali Linux" title="Kali Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<img align="left" alt="Burp Suite" title="Burp Suite" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/BurpSuite_Logo.png" />
+<img align="left" alt="Burp Suite" title="Burp Suite" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" />
 
-<img align="left" alt="Nmap" title="Nmap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Nmap" title="Nmap" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" />
 
-<img align="left" alt="Wireshark" title="Wireshark" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" />
+<img align="left" alt="Wireshark" title="Wireshark" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" />
 
-<img align="left" alt="OWASP ZAP" title="OWASP ZAP" width="30px" style="padding-right: 10px;" src="https://www.zaproxy.org/img/zap.svg" />
+<img align="left" alt="OWASP" title="OWASP" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" />
 
-<img align="left" alt="Metasploit" title="Metasploit" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Metasploit_logo_and_wordmark.svg" />
+<img align="left" alt="Metasploit" title="Metasploit" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" />
 
-<br/> <br/>
+<br/><br/>
 
 ---
 
