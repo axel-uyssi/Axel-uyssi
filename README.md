@@ -82,15 +82,15 @@ I work on building backend systems and APIs, as well as analyzing application se
 
 <img align="left" alt="Kali Linux" title="Kali Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<img align="left" alt="Burp Suite" title="Burp Suite" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" />
+<img align="left" alt="Burp Suite" title="Burp Suite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/burpsuite.svg?color=ff6633" />
 
-<img align="left" alt="Nmap" title="Nmap" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" />
+<img align="left" alt="Nmap" title="Nmap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nmap.svg?color=004170" />
 
-<img align="left" alt="Wireshark" title="Wireshark" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" />
+<img align="left" alt="Wireshark" title="Wireshark" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wireshark.svg?color=1679A7" />
 
-<img align="left" alt="OWASP" title="OWASP" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" />
+<img align="left" alt="OWASP" title="OWASP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/owasp.svg?color=000000" />
 
-<img align="left" alt="Metasploit" title="Metasploit" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" />
+<img align="left" alt="Metasploit" title="Metasploit" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/metasploit.svg?color=2596be" />
 
 <br/><br/>
 
