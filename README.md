@@ -80,19 +80,64 @@ I work on building backend systems and APIs, as well as analyzing application se
 
 ### 🐳 Infrastructure & Data Engineering
 
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+### 🐳 Infrastructure & Data Engineering
 
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+/>
 
-<img align="left" alt="Redis" title="Redis" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+/>
 
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img 
+    align="left" 
+    alt="Redis" 
+    title="Redis"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" 
+/>
 
-<img align="left" alt="Flyway" title="Flyway" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flyway.svg?color=cc0202" />
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+/>
 
-<img align="left" alt="Hibernate" title="Hibernate" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hibernate.svg?color=59666c" />
+<img 
+    align="left" 
+    alt="Flyway" 
+    title="Flyway"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flyway.svg?color=cc0202" 
+/>
 
-<br/><br/>
+<img 
+    align="left" 
+    alt="Hibernate" 
+    title="Hibernate"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hibernate.svg?color=59666c" 
+/>
+
+<br/>
+<br/>
 
 ---
 
