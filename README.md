@@ -78,6 +78,37 @@ I work on building backend systems and APIs, as well as analyzing application se
 
 ---
 
+### 🔐 Cyber Security (AppSec & Pentest)
+<img align="left" alt="Kali Linux" title="Kali Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<img align="left" alt="Burp Suite" title="Burp Suite" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/BurpSuite_Logo.png" />
+
+<img align="left" alt="Nmap" title="Nmap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<img align="left" alt="Wireshark" title="Wireshark" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" />
+
+<img align="left" alt="OWASP ZAP" title="OWASP ZAP" width="30px" style="padding-right: 10px;" src="https://www.zaproxy.org/img/zap.svg" />
+
+<img align="left" alt="Metasploit" title="Metasploit" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Metasploit_logo_and_wordmark.svg" />
+
+<br/> <br/>
+
+---
+
+### 🐳 Infrastructure & Data Engineering
+
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+<img align="left" alt="Redis" title="Redis" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<br/> <br/>
+
+---
+
 ### 🎨 Camada Frontend (apoio ao backend)
 
 <img 
