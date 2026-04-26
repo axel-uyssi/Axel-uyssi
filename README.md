@@ -78,7 +78,7 @@ I work on building backend systems and APIs, as well as analyzing application se
 
 ---
 
-### 🐳 Infrastructure & Data Engineering
+### 🗃️ Infrastructure & Data Engineering
 
 <img 
     align="left" 
