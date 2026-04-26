@@ -122,7 +122,7 @@ I work on building backend systems and APIs, as well as analyzing application se
     title="Flyway"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flyway.svg?color=cc0202" 
+    src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" 
 />
 
 <img 
@@ -131,7 +131,7 @@ I work on building backend systems and APIs, as well as analyzing application se
     title="Hibernate"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hibernate.svg?color=59666c" 
+    src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" 
 />
 
 <br/>
