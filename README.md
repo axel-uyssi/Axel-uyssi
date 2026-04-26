@@ -80,8 +80,6 @@ I work on building backend systems and APIs, as well as analyzing application se
 
 ### 🐳 Infrastructure & Data Engineering
 
-### 🐳 Infrastructure & Data Engineering
-
 <img 
     align="left" 
     alt="Docker" 
@@ -136,7 +134,6 @@ I work on building backend systems and APIs, as well as analyzing application se
     src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hibernate.svg?color=59666c" 
 />
 
-<br/>
 <br/>
 
 ---
