@@ -17,7 +17,7 @@ I work on building backend systems and APIs, as well as analyzing application se
 
 ---
 
-### ⚙️ Stack Principal (Backend & Segurança)
+### ⚙️ Core Stack (Backend & Security)
 
 <img 
     align="left" 
@@ -138,7 +138,7 @@ I work on building backend systems and APIs, as well as analyzing application se
 
 ---
 
-### 🎨 Camada Frontend (apoio ao backend)
+### 🎨 Frontend Layer (backend support)
 
 <img 
     align="left" 
