@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Axel Uyssi 
+# 🧑🏻‍💻 Axel Uyssi 
 
 # **Backend & Cybersecurity Developer**
 
